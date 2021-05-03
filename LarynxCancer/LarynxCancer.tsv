@@ -1,0 +1,124 @@
+File ID	File Name	Data Category	Data Type	Project ID	Case ID	Sample ID	Sample Type
+564765f8-d7fa-438c-9105-f0b850853c3c	996d1cd9-fbf6-4b47-ad81-3ebc305a8837.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-D6-A6EQ	TCGA-D6-A6EQ-01A	Primary Tumor
+40c375ae-e9eb-42f2-bd8c-e122352d1e67	df0459ef-6e9f-46c2-8288-1179f0ae091d.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-A45W	TCGA-CV-A45W-01A	Primary Tumor
+af01c84f-dace-4c11-997a-37bde4cedd94	49893832-1a4f-477c-bcdd-f904d8399b4b.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CN-A63W	TCGA-CN-A63W-01A	Primary Tumor
+06f89bc6-2e97-4bfa-989c-4934e7f28f05	9901dccf-afd1-4ebf-9efd-5aed4de03636.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-5440	TCGA-CV-5440-01A	Primary Tumor
+a0c9c4e2-b1c4-49cb-a009-cee2aafa8104	c5d86cae-cf78-4831-a5f4-bbfce5f496ee.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-D6-6517	TCGA-D6-6517-01A	Primary Tumor
+f480bebb-6a2c-4c8b-842b-9c3ac7c4ae38	6575cdf0-09dd-4511-a487-d201184ecce0.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-BA-A6DA	TCGA-BA-A6DA-01A	Primary Tumor
+8c326fb7-18f4-44ec-a2c8-479ce33fda20	cf3dbfa8-f751-43bd-8df2-229bd34978eb.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-UF-A718	TCGA-UF-A718-01A	Primary Tumor
+07458e60-4784-4ba5-963c-a9acb12444e0	f5659309-d6c2-49de-a04b-4734e2b70093.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-BA-6868	TCGA-BA-6868-01B	Primary Tumor
+e9cec958-908e-4011-8c36-4156b594c72b	f3ef5625-ff89-4e70-9844-275edeabcb88.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7422	TCGA-CV-7422-01A	Primary Tumor
+f26deb3a-a615-4678-865d-0e1b6c3ca046	6c8c027a-bc7f-4a73-b962-071b4decd6a9.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CR-7370	TCGA-CR-7370-01A	Primary Tumor
+b01bdd7d-e02b-466e-b60d-fb6f1e31f919	cb7df6d7-2b33-4d50-82ae-706d8a237270.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7261	TCGA-CV-7261-01A	Primary Tumor
+d743617a-f053-4abf-aa41-3eca383262be	6b7a43cb-ff8f-4a5d-a6fe-61eec2f789a4.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-5435	TCGA-CV-5435-01A	Primary Tumor
+4dcbd438-8c68-4b00-b81b-989577ceda0d	fb3bc987-c15c-4c73-a9cb-5312f548805b.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-UF-A71D	TCGA-UF-A71D-01A	Primary Tumor
+82cfb1c3-e32b-427f-98cc-fe54909ac06a	852726f5-cf78-4e8a-bafb-be78aed6eea7.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-UF-A7JH	TCGA-UF-A7JH-01A	Primary Tumor
+c8f7bd7e-b434-42cf-9bb3-415decab5b05	2b96185f-43b4-4581-b74c-329e870252a0.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7242	TCGA-CV-7242-11A	Solid Tissue Normal
+604d9cf2-ba6b-4be5-80e0-baf0d6ecc9db	29c24d83-b40f-443e-81db-f764c4b03d36.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-BB-4217	TCGA-BB-4217-01A	Primary Tumor
+b51ed084-8eee-43e4-9dbd-570ec4df8880	75fc5562-132a-471c-95bd-983ea1d497b7.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7248	TCGA-CV-7248-01A	Primary Tumor
+acd29c8d-3356-424d-b40f-ba3f00e6047c	34404ab0-933f-43f5-89a6-38af91b8d65d.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-QK-AA3J	TCGA-QK-AA3J-01A	Primary Tumor
+ce45adac-fa61-4ba2-a95e-51157cf4615b	ad86d99e-5d4c-4d7d-8644-3616502c006f.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-T3-A92M	TCGA-T3-A92M-01A	Primary Tumor
+d3c2a302-6b87-48bf-aad1-3dcb0c352828	df4c0fd3-2ca8-43c0-94e3-a7c972fa01bb.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-F7-7848	TCGA-F7-7848-01A	Primary Tumor
+db5f06cf-714c-4da8-8058-09a5b4dcaf33	332578e8-f23f-48f3-912f-afedc27dcc6e.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7410	TCGA-CV-7410-01A	Primary Tumor
+6a03be9a-9086-4875-80c0-df219c8c438a	029e3d06-38b8-425c-8e4b-27b72cf71afd.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-6935	TCGA-CV-6935-01A	Primary Tumor
+11432de6-8437-4cdb-b8fe-c247221122e3	82dcf543-77eb-416d-ae9f-2d7cce203d63.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-A6K1	TCGA-CV-A6K1-01A	Primary Tumor
+bf307194-093f-4fb0-867c-7db696aca1e8	5845a5be-e598-4b7e-8abb-960620c2b47b.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CN-6997	TCGA-CN-6997-01A	Primary Tumor
+887e2e89-af5f-49ee-b54c-ef9d323ddde9	6a38fa25-a6cb-411f-9028-3094b34dbdbb.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7440	TCGA-CV-7440-01A	Primary Tumor
+43897c39-4597-4974-a881-4fb58bd76755	f4d49fea-2d9b-450f-ada5-1cbeabb24d34.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-UF-A7JK	TCGA-UF-A7JK-01A	Primary Tumor
+84edcd0c-a7b1-4465-987a-a69a9841137c	f95d940d-7b92-49a5-a1e8-b8ee263ae306.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-6962	TCGA-CV-6962-11A	Solid Tissue Normal
+6f0f57e1-6cb1-4891-9977-b46dc0939ea7	69d1abd5-756b-4a19-bf2a-dd02ff73d713.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CR-7364	TCGA-CR-7364-01A	Primary Tumor
+4ce3fb6e-bdc3-4633-974e-c6732a25b481	c4495910-1d50-4a05-8f9b-50f7e34ba56f.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CR-7388	TCGA-CR-7388-01A	Primary Tumor
+a955619c-89ae-4b6f-ae23-a9365023958c	6d04eabc-a986-4091-9b44-cb6d743e5384.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7177	TCGA-CV-7177-11A	Solid Tissue Normal
+0bd6bed4-4187-44c5-affc-2b3f5d5c7e67	a0ba142c-00e4-4ad9-8f2d-b53457bb21c8.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7430	TCGA-CV-7430-01A	Primary Tumor
+a44747b5-176f-4e0f-bbe4-993efadf7187	42c0a807-3b90-42cc-aad8-6a86b3ee9c2b.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7089	TCGA-CV-7089-01A	Primary Tumor
+20065f98-f2c0-4d3e-a7a7-bf6dc9dc856a	7eae255c-2021-401e-8729-f05dcc512f69.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CN-4738	TCGA-CN-4738-01A	Primary Tumor
+3b6d7876-ff39-407a-88b9-74ea88be970a	62d1ce0e-55a8-4c31-9e96-e0c0cb95235f.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7250	TCGA-CV-7250-11A	Solid Tissue Normal
+ec7dd846-c829-4119-bcf6-5196e427475c	5836155c-0ded-4b78-a7fc-04ae119cab2b.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7101	TCGA-CV-7101-11A	Solid Tissue Normal
+13ea889a-a024-44ca-9dea-5f4f6e9588b6	4060c24e-a2ef-457f-ae38-9a13e0a446df.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-5444	TCGA-CV-5444-01A	Primary Tumor
+8ea5b238-1405-42df-b341-954032921728	dd882230-273d-4ec3-931b-0765fb7fb811.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-A460	TCGA-CV-A460-01A	Primary Tumor
+b7cb6d1d-d055-4304-9bbd-9d71725d3ace	e1dd97dc-ed82-4a92-9413-c617d07f688f.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-5443	TCGA-CV-5443-01A	Primary Tumor
+83d6abae-d311-487b-bcc3-d46e2c39de14	09553434-9c19-4775-9cf8-31174ff73512.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CN-4722	TCGA-CN-4722-01A	Primary Tumor
+27fea04d-8345-4814-8fe1-83f8fa0e1885	5c53ed59-fa42-48f5-9233-ce94155131f5.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7424	TCGA-CV-7424-01A	Primary Tumor
+c97fefdf-df03-49e2-acfd-3270e52ee949	00f32c8e-2a91-485b-99c9-6e2e22addec1.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-DQ-5629	TCGA-DQ-5629-01A	Primary Tumor
+24f94b1c-b769-4674-9357-251aa685e925	3b756a63-aa56-4ee7-b7dd-55fbc1c82398.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CN-6021	TCGA-CN-6021-01A	Primary Tumor
+2a06816e-ae0e-4ac1-b88e-cb8a88607f2e	06833538-97e2-456e-b127-03ff2e0b11cb.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-5432	TCGA-CV-5432-01A	Primary Tumor
+35e3186a-220c-4298-ab22-9b2ae0e196fb	4ac1259d-a93e-4a58-a8f7-80050117ffc1.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CR-7389	TCGA-CR-7389-01A	Primary Tumor
+ac37406d-6ee7-47b9-b6c0-d1ec82c12cb4	6e4cd75c-e602-4845-95f2-8520d7976d56.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-5430	TCGA-CV-5430-01A	Primary Tumor
+c82cadfb-7d6a-4f73-b4d8-817b75734357	cf87b142-1e14-48fd-a1e6-9f853c8839c5.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-HD-7229	TCGA-HD-7229-01A	Primary Tumor
+9d4a9d46-a8f0-4b4a-bbcc-7d58b60d673c	bbd06d25-fc74-4df8-a943-10ad6fd41501.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-UF-A7JJ	TCGA-UF-A7JJ-01A	Primary Tumor
+bd5da481-f5ec-4f73-8ab7-8f57f5289c3c	c65051d8-4815-4a9d-be65-de1aa152a346.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7247	TCGA-CV-7247-01A	Primary Tumor
+63065301-23b9-472a-b194-9ff85f330375	3e01ad01-0ff6-408d-888a-9b276146faf2.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7421	TCGA-CV-7421-01A	Primary Tumor
+68677a0d-a154-4cc5-ac3f-1497d6b68bdc	8c01aad8-d3bc-4fe9-a45d-726e6dd8e7a6.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-D6-A74Q	TCGA-D6-A74Q-01A	Primary Tumor
+44c12e8c-395d-41d4-80f8-021ebb668f17	13f753d4-adce-46ba-be86-41fa8486ea78.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CN-6012	TCGA-CN-6012-01A	Primary Tumor
+afff756a-7e4f-4678-8e74-39deb653460f	6799eeed-fb86-4803-9792-9e9c12b25e8b.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-D6-8568	TCGA-D6-8568-01A	Primary Tumor
+b854a567-a87a-4ada-9237-431276cac821	01aad490-cd89-463a-8c31-d3fff17e7ab7.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CN-A63U	TCGA-CN-A63U-01A	Primary Tumor
+085f785f-2814-4a18-98df-972590b6f709	1aebe8a0-7fcb-407d-aa21-55e386f7297e.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7250	TCGA-CV-7250-01A	Primary Tumor
+b3dfa86c-8410-46c3-a25b-715d31891149	f0f73c0a-ef91-4882-9912-09ce2ccea869.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-5978	TCGA-CV-5978-01A	Primary Tumor
+c7de3e60-2036-43dd-87ec-2db672e0087f	da0e18ff-74d5-4b6a-85e5-92da3b2668db.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CR-7374	TCGA-CR-7374-01A	Primary Tumor
+9a613a44-da30-4cdb-829b-5822870ff883	a189f012-5db6-458e-8470-a12981b0c9d4.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-A45Z	TCGA-CV-A45Z-01A	Primary Tumor
+3616da5c-996d-4d08-9c20-7092ed877406	fc834315-fe57-487f-8974-cb7e24c32b8d.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-BA-A6DI	TCGA-BA-A6DI-01A	Primary Tumor
+6eb8e8da-cd71-48c0-bd30-35fbe00a8486	bc0af74a-3ec1-4392-ba31-82de4318a815.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CN-6992	TCGA-CN-6992-01A	Primary Tumor
+e1e28318-f513-4e4f-9f93-db263c18da7b	8c49a725-2a80-4052-8285-ad589aa3253f.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-BA-4078	TCGA-BA-4078-01A	Primary Tumor
+229ae16b-d25b-4d55-a177-a3c1cefc01ac	ebd947e4-7252-4b48-8a26-4ab98927f993.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CN-A6V3	TCGA-CN-A6V3-01A	Primary Tumor
+2404eae5-9d7c-4cd1-9788-621ef9b296ae	686e79ba-4ace-4833-bce2-c4fbe8737d5e.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-6962	TCGA-CV-6962-01A	Primary Tumor
+db84aaa8-8c60-44c5-b67d-65d602f9bbe9	e5979bfb-70b7-4ac4-a4a0-0c045576e36d.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7437	TCGA-CV-7437-01A	Primary Tumor
+2bcc4e1c-70bb-4152-9573-de97f23dcd10	2cb8c5ce-063c-47dd-aae4-a56e1e11cef3.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7245	TCGA-CV-7245-11A	Solid Tissue Normal
+f0873e47-14b2-4494-8256-8cebce08c09a	c797e881-d63c-4231-b788-6d0582d84e51.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CN-6022	TCGA-CN-6022-01A	Primary Tumor
+e25274b7-d7fe-48ab-aaa9-44a95e772f67	ced80119-5605-4250-9ebc-971878c36dc9.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-BA-4076	TCGA-BA-4076-01A	Primary Tumor
+c170a822-8a12-489c-894f-554472fa4196	04199d64-ece0-4ce8-be6c-a7eb758b6405.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CN-5360	TCGA-CN-5360-01A	Primary Tumor
+04303348-e957-474f-9667-0f36ee8cbbf6	c8cb8ef1-b679-4084-a11a-4ccc68d4a062.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CN-6988	TCGA-CN-6988-01A	Primary Tumor
+e57fbcb1-64ce-4b77-a3fc-53869065e2c8	63ef4125-0963-4037-a88b-1792255027f2.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-F7-8298	TCGA-F7-8298-01A	Primary Tumor
+7a32fe57-6045-47b5-90bf-7349a0a19c41	5dc1623d-d048-4d85-b118-55a5226ede95.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CN-A497	TCGA-CN-A497-01A	Primary Tumor
+44579dec-3df5-4514-8ca3-13a2a4c6e788	e4d431d7-a5c1-4c73-b91c-e7b8a5e46390.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-A461	TCGA-CV-A461-01A	Primary Tumor
+adb627bc-9164-4b3c-a6ab-cd1a9471bf4f	35a8e351-3d56-4ab6-b537-329ce838ded2.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7437	TCGA-CV-7437-11A	Solid Tissue Normal
+d763a3b4-ac09-4eb4-9089-b4fa20010491	044cbfc0-5173-46ab-9050-c0a8c3c16845.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-D6-6826	TCGA-D6-6826-01A	Primary Tumor
+5b9112e1-2566-4139-9fd7-2a0ea0f146e1	34e12b90-5774-412b-a1e4-3d486292ab78.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CR-7402	TCGA-CR-7402-01A	Primary Tumor
+8c5e3dae-aacf-45fc-8c43-12ba41035c57	6c9e0596-c697-4d5e-a97f-1a0b42970c36.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-KU-A66S	TCGA-KU-A66S-01A	Primary Tumor
+3628b955-b59d-4575-b8b0-0112ab01c1f6	3f2fe6d3-49e2-470a-9f6c-eab4f8bb8ab0.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-5431	TCGA-CV-5431-01A	Primary Tumor
+0ef54a23-f0e4-4f7b-83a1-d2923c638922	641f1fa0-34f6-455f-a1e8-41bc67f452f4.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CN-4739	TCGA-CN-4739-01A	Primary Tumor
+19a4b668-18fc-421b-a360-73942643f780	589eb5fb-5c11-4e4d-80a3-30108d277de4.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7242	TCGA-CV-7242-01A	Primary Tumor
+570f0bb5-4483-4a5e-8374-9fef274d4eab	f4d1f4ab-49db-45aa-a121-22f67d7b2b64.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CN-5361	TCGA-CN-5361-01A	Primary Tumor
+98b527de-55ea-450f-a635-8c6e6ad32157	30d69eb7-0afb-40dc-b243-c3ecf91a09fd.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CN-A49B	TCGA-CN-A49B-01A	Primary Tumor
+72ac31e0-b517-4bc1-94e9-79b7d6ad1b97	bd069c1e-7750-4b59-b2c9-0e2e465adb0d.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CR-6474	TCGA-CR-6474-01A	Primary Tumor
+1291a345-5d82-4f7b-b96f-aacd5fe946b6	f44db4b4-9b79-41ce-a63a-d4aaa0d378e2.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-5441	TCGA-CV-5441-01A	Primary Tumor
+30405f4e-a8ae-4ad8-900a-cc031f63436e	59ae8c74-f68d-45ce-87e5-30d0846f6eae.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-TN-A7HJ	TCGA-TN-A7HJ-01A	Primary Tumor
+1992a92f-009b-4ea8-ac84-4d0ac2169761	22117440-a29b-48e7-8302-052e95e16046.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7177	TCGA-CV-7177-01A	Primary Tumor
+1ca5aa1c-09d2-4ca8-8231-bea6d259951f	d12e61ba-c31a-48ec-ae3a-20e7a2aee689.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CN-4735	TCGA-CN-4735-01A	Primary Tumor
+d73a621b-c1a6-48da-af9d-1eee634f8937	adf6f517-d543-46f4-be85-ceeccb398723.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CN-4723	TCGA-CN-4723-01A	Primary Tumor
+11035726-5020-4883-b524-767cd6cde005	e433afef-7462-42d7-bc0e-300f576df64a.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7418	TCGA-CV-7418-01A	Primary Tumor
+443cdf70-d729-4765-b4e8-bc97f8721d85	768336ab-12f0-4494-b280-f2137bfd2087.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CR-7398	TCGA-CR-7398-01A	Primary Tumor
+459c41e9-2285-43ac-9244-f68dd12dec16	40556da7-3a10-4d8b-bb17-15e837ae3457.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-UF-A7J9	TCGA-UF-A7J9-01A	Primary Tumor
+1bf35f7e-a8a3-481d-93ca-886d4cf4d08d	b35eebb7-eac5-4c98-afaf-dd8cd32008c6.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-F7-A623	TCGA-F7-A623-01A	Primary Tumor
+1cee979e-57dd-4314-aff4-fe343598596a	a85d707e-2694-49e0-a18c-75e560ea6015.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-QK-A8Z8	TCGA-QK-A8Z8-01A	Primary Tumor
+3f11bf82-b4b0-49a1-958f-855e7f3032a8	e5fcdcf3-eba1-438f-968b-60f4d03a2bf0.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CN-6023	TCGA-CN-6023-01A	Primary Tumor
+c18765b1-8199-4c88-a8dc-1c8bba32e29b	522684c4-34df-4e97-b458-3b27e2136156.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-BA-6870	TCGA-BA-6870-01A	Primary Tumor
+4db54f2a-e515-4737-80cb-ac90cd48558c	85a10ecd-d3aa-4907-9dea-d58ead2e511f.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7415	TCGA-CV-7415-01A	Primary Tumor
+b0d1a890-cfe7-40af-a35d-9a8cdf495153	1e8fc71c-1a15-419c-8120-3736e9770dbd.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7440	TCGA-CV-7440-11A	Solid Tissue Normal
+af9bb55a-5b37-4f9e-81f0-6e26b549bc91	318c0704-800c-4d48-ae42-26336a703da3.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-6935	TCGA-CV-6935-11A	Solid Tissue Normal
+32bceee4-ddc7-44da-85ec-d1e6afafadbb	f25ebbb2-d196-4da1-b0a1-d23c89deb7a7.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CN-A641	TCGA-CN-A641-01A	Primary Tumor
+4bb2e835-23b7-4b0f-afb7-85b8311a8323	fddd273c-4ed9-4fac-8ce4-d5c3bcc4f4a4.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CN-4727	TCGA-CN-4727-01A	Primary Tumor
+f5111793-c445-46a0-a8a5-e5d8a0e3cc1b	d5b802bf-5c44-40a5-8bf8-bfdada5b699e.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-D6-A6ES	TCGA-D6-A6ES-01A	Primary Tumor
+65619910-3d84-4210-97c4-69fa776b57c2	753e5359-133b-4139-99f9-f28df7e3d1c0.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7424	TCGA-CV-7424-11A	Solid Tissue Normal
+4d50c130-f9fc-4dde-8d56-9b687c8e93c5	381c09f9-91fd-461c-b235-83038b356f28.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-H7-A6C5	TCGA-H7-A6C5-11A	Solid Tissue Normal
+8a6e0e48-2a12-447f-8c7a-abee412f2669	2e6de4bd-bf28-443d-b6bb-f328616ad3d2.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-BA-5555	TCGA-BA-5555-01A	Primary Tumor
+56273b12-98f3-46f7-a450-5cfddfe91375	885d0d86-4c31-4594-954d-f331edcd4879.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7101	TCGA-CV-7101-01A	Primary Tumor
+e5b21b7c-8182-44a8-8405-c2180e1ce23b	7effec7d-a55f-45d9-b938-a0a1b25a6fea.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CR-7371	TCGA-CR-7371-01A	Primary Tumor
+62a09737-8205-466f-9f59-fb02acf77e96	b90ebbf0-20cb-4a31-a09b-da452ad6d881.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-UF-A7JF	TCGA-UF-A7JF-01A	Primary Tumor
+982eb00f-e5f1-45dc-9890-e8f78f8fb683	cd9c2f5d-a84c-4542-8aac-e44b516951b1.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7433	TCGA-CV-7433-01A	Primary Tumor
+f1385873-d6f2-478b-ae62-0819d28db6ac	90ab2da7-4d60-4640-aa43-47aa1fb43390.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CN-5363	TCGA-CN-5363-01A	Primary Tumor
+dbf98359-06fe-4169-bc27-9e5a594c0f35	79b14b36-3c76-4a55-ad28-e3bdb906ce27.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-F7-A622	TCGA-F7-A622-01A	Primary Tumor
+6630a529-2259-4710-a4fb-73d67181156e	cca8a7cc-4242-45fd-a3b0-74a97504d0d9.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CN-6010	TCGA-CN-6010-01A	Primary Tumor
+e5bdee45-4f1a-47f8-908d-a08800acf41b	0f1def56-7873-4f65-94ee-3ba13038bf75.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CR-7399	TCGA-CR-7399-01A	Primary Tumor
+56a0b7bc-9611-42ce-8d69-400a540a2998	dbe31868-97e4-4400-8bd3-51fc5f975267.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-5434	TCGA-CV-5434-01A	Primary Tumor
+0bd21617-3015-48ca-9446-93f72be95017	cc0ef76f-c51b-4842-9708-1831e218e4fd.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CN-5355	TCGA-CN-5355-01A	Primary Tumor
+21ea6561-2bd1-4a3d-ae70-3c504530bb26	c1419218-784c-4f51-ba40-9458ea89d029.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CN-6989	TCGA-CN-6989-01A	Primary Tumor
+986e1cfc-481d-4f10-8aa3-0c4b039bffb4	13ed4e49-7513-4124-abee-e1dee75711d1.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-F7-A50I	TCGA-F7-A50I-01A	Primary Tumor
+1a292c1a-5d71-4885-aebc-7843dc674ddc	349dfe75-cde2-43b6-a84b-1cbfd596c402.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CN-5356	TCGA-CN-5356-01A	Primary Tumor
+9ffe5716-2ebe-4df9-aa09-f5a0dbec315e	fa459b23-f0f8-4fed-a7c3-829a720a2221.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-A45Y	TCGA-CV-A45Y-01A	Primary Tumor
+e3b1ecb5-2f8a-4bea-a924-a57c046548c0	a210d103-3512-496c-82bf-515a6edcd7e7.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-BA-6869	TCGA-BA-6869-01A	Primary Tumor
+4d46f344-096e-475f-ab04-ca561fbe8fed	1df2a43f-7735-480c-99cf-d983f1c94b85.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-QK-A8ZB	TCGA-QK-A8ZB-01A	Primary Tumor
+04527ea0-e6b1-4bbc-8b30-983bb193779a	4af659b1-ace9-4158-8de3-3b985ea9f585.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7261	TCGA-CV-7261-11A	Solid Tissue Normal
+c231f327-26ae-42b1-9813-bff1ac1896d5	6b68c1d1-e7ed-47b0-b1c6-887724f9e918.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-D6-6824	TCGA-D6-6824-01A	Primary Tumor
+72f87aaf-c152-4a1f-884d-b03a935bb723	e0ddd107-796e-4447-8783-69abe34f4d26.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CN-A63T	TCGA-CN-A63T-01A	Primary Tumor
+c6857a43-614f-4211-b269-1a06243faa37	2c5ac99b-8d07-49ca-954f-83f925ca8e6e.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-CV-7245	TCGA-CV-7245-01A	Primary Tumor
+d41e8892-8b3e-4734-b2b9-5b979c04b04b	606c5ae4-fefa-41ba-82b7-0e9679fafbc4.htseq.counts.gz	Transcriptome Profiling	Gene Expression Quantification	TCGA-HNSC	TCGA-D6-A6EK	TCGA-D6-A6EK-01A	Primary Tumor
